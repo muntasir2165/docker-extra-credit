@@ -2,7 +2,7 @@
 
 # Docker Image Creation
 
-![docker image](./docker-image.png)
+![docker image](docker-image.png)
 
 ## Getting Help
 
